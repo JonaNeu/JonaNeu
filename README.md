@@ -1,7 +1,3 @@
-
-![Me](profile.png)
-
-
 # Hi, I'm Jona
 
 
